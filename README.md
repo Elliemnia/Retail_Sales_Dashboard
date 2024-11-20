@@ -24,8 +24,8 @@ This project is a **Retail Sales Dashboard** designed to analyze and visualize r
 
 
 ## Insights
-1. **Top-Selling Region**: `E.g., California` had the highest sales.
-2. **Sales Trends**: Sales peak in `E.g., December`.
+1. **Top-Selling Region**: `West` had the highest sales.
+2. **Sales Trends**: Sales peak in `2018`.
 3. **Discount Impact**: Discounts improve sales but reduce profit margins.
 
 ## How to Use
@@ -42,4 +42,4 @@ This project is a **Retail Sales Dashboard** designed to analyze and visualize r
 2. Go to your repository, click **Add file > Upload files**, and upload the screenshot.
 3. Edit the README and include the image using this format:
    ```markdown
-   ![Dashboard Screenshot]Screenshot (404).png
+   ![Dashboard Screenshot](Screenshot (404).png)
