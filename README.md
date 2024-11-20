@@ -23,7 +23,7 @@ This project is a **Retail Sales Dashboard** designed to analyze and visualize r
 
 ## Insights
 1. **Top-Selling Region**: `West` had the highest sales.
-2. **Sales Trends**: Sales peak in `2018`.
+2. **Sales Trends**: Sales peak in `December`.
 3. **Discount Impact**: Discounts improve sales but reduce profit margins.
 
 ## How to Use
@@ -33,4 +33,4 @@ This project is a **Retail Sales Dashboard** designed to analyze and visualize r
 
 
 
- ![Dashboard Screenshot](https://github.com/Elliemnia/Retail_Sales_Dashboard/blob/main/Screenshot%20(404).png)
+ ![Dashboard Screenshot](https://github.com/Elliemnia/Retail_Sales_Dashboard/blob/main/Screenshot%20(406).png)
