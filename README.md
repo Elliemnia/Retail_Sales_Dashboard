@@ -42,4 +42,4 @@ This project is a **Retail Sales Dashboard** designed to analyze and visualize r
 2. Go to your repository, click **Add file > Upload files**, and upload the screenshot.
 3. Edit the README and include the image using this format:
    ```markdown
- ![Dashboard Screenshot](https://Elliemnia/Retail_Sales_Dashboard/blob/main/Screenshot%20(404).png)
+ ![Dashboard Screenshot]()
