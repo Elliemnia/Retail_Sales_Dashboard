@@ -20,8 +20,6 @@ This project is a **Retail Sales Dashboard** designed to analyze and visualize r
 - **Visualization**: Power BI 
 - **Dataset**: Superstore Dataset from [Kaggle](https://www.kaggle.com).
 
-## Dashboard Preview
-
 
 ## Insights
 1. **Top-Selling Region**: `West` had the highest sales.
@@ -35,11 +33,4 @@ This project is a **Retail Sales Dashboard** designed to analyze and visualize r
 
 
 
----
-
-### **Step 5: (Optional) Add a Dashboard Screenshot**
-1. Take a screenshot of your dashboard.
-2. Go to your repository, click **Add file > Upload files**, and upload the screenshot.
-3. Edit the README and include the image using this format:
-   ```markdown
  ![Dashboard Screenshot](https://github.com/Elliemnia/Retail_Sales_Dashboard/blob/main/Screenshot%20(404).png)
